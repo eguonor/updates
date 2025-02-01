@@ -1,0 +1,5 @@
+<!-- searcch this class name in pages.css, change the background-color and opacity to this current one -->   
+.collection-hero__title-wrapper::before {
+   
+    background-color: #000000d8;
+    opacity: 0.80; }
